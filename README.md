@@ -1,5 +1,7 @@
-## Small program to read/create files via the command line 
-### http.Server can be used to display the contents of your store / files in the browser
+## Small program to interact with the file system 
+
+Files can be read and created via the command line. 
+`http.Server` can be used to display the contents of your store and files in the browser.
 
 To start server: 
  `go run main.go --store=./tmp`
